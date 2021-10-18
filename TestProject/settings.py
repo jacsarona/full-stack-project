@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-p104+(kdh#_cl-n$6skxj0ry+@z==z6#tu8wgcgi0d#(&i-9@l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jacsarona-full-stack.herokuapp.com']
 
 
 # Application definition
